@@ -1,4 +1,8 @@
 
+Sajeer has done some modifications
+
+
+
 ssss
 \# reveal.js
 
@@ -105,3 +109,7 @@ Reveal.initialize({
 MIT licensed
 
 Copyright (C) 2011 Hakim El Hattab, http://hakim.se
+
+
+
+

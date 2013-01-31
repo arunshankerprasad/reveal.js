@@ -7,7 +7,6 @@ Note that this requires a browser with support for CSS 3D transforms and ``class
 Curious about how this looks in action? [Check out the demo page](http://lab.hakim.se/reveal-js/).
 
 # Examples
-
 * http://lab.hakim.se/reveal-js/ (original)
 * http://www.ideapolisagency.com/ by [@achrafkassioui](http://twitter.com/achrafkassioui)
 * http://lucienfrelin.com/ by [@lucienfrelin](http://twitter.com/lucienfrelin)

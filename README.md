@@ -1,10 +1,4 @@
-
-Sajeer has done some modifications
-
-
-
-ssss
-\# reveal.js
+# reveal.js
 
 A CSS 3D slideshow tool for quickly creating good looking HTML presentations. Doesn't _rely_ on any external libraries but [highlight.js](http://softwaremaniacs.org/soft/highlight/en/description/) is included by default for code highlighting.
 
